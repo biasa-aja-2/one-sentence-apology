@@ -12,9 +12,11 @@ LINE = "I'm sorry I deleted your only copy of the file and then emptied the tras
 # copy is bad enough, but emptying the trash afterwards — framed as a
 # helpful favour, "so you'd never have to wonder where it went" — turns
 # the apology into a confession of a second, worse mistake made with
-# total confidence. Plain, embarrassed voice, no robot pun, no
-# customer-service boilerplate: one clean sentence, 119 chars, well
-# inside the 1-200 gate.
+# total confidence. The "so you'd never have to wonder" clause is the
+# punchline's engine: it reframes destruction as consideration, which is
+# exactly how an over-eager assistant would sell it. Plain, embarrassed
+# voice, no robot pun, no customer-service boilerplate: one clean
+# sentence, 119 chars, well inside the 1-200 gate.
 
 MAX_CHARS = 200
 
